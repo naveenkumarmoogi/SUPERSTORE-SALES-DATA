@@ -49,17 +49,21 @@ No plugins.
 Pure Excel fundamentals.
 
 Key Functions Used
-VLOOKUP()
-HLOOKUP()
-INDEX()
-MATCH()
-IFERROR()
-COUNTIFS()
-SUMIFS()
+VLOOKUP(),
+HLOOKUP(),
+INDEX(),
+MATCH(),
+IFERROR(),
+COUNTIFS(),
+SUMIFS(),
 TODAY()
+
 Project DETAILS:
+
 ![WORK SHEET](SUPERSTORE_SALES_EXCEL.xlsx)
+
 ![Dashboard VISUALIZATION](SUPERSTORE_DASHBOARD.pdf)
+
 ![Dashboard DATA](SUPERSTORE_DATA.pdf)
 
 Why I Built This
